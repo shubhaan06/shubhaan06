@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhaan06" alt="shubhaan06" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence and machine learning**
+- 🌱 I’m currently learning **Web Developement**
 
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on **AI projects and Developement Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
